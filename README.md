@@ -352,13 +352,20 @@ We recommend using different reward weight ratios at different stages of trainin
 ## Citation
 
 ```
-@misc{zhao2025embodiedr,
-      title={Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning},
-      author={Baining Zhao and Ziyou Wang and Jianjie Fang and Chen Gao and Fanhang Man and Jinqiang Cui and Xin Wang and Xinlei Chen and Yong Li and Wenwu Zhu},
-      year={2025},
-      eprint={2504.12680},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2504.12680},
+@inproceedings{10.1145/3746027.3755703,
+  author = {Zhao, Baining and Wang, Ziyou and Fang, Jianjie and Gao, Chen and Man, Fanhang and Cui, Jinqiang and Wang, Xin and Chen, Xinlei and Li, Yong and Zhu, Wenwu},
+  title = {Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning},
+  year = {2025},
+  isbn = {9798400720352},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3746027.3755703},
+  doi = {10.1145/3746027.3755703},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages = {11071–11080},
+  numpages = {10},
+  keywords = {embodied intelligence, reasoning, vision-language model},
+  location = {Dublin, Ireland},
+  series = {MM '25}
 }
 ```
